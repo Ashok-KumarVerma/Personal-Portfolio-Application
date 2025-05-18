@@ -35,8 +35,8 @@ This portfolio website serves as my professional online presence where I highlig
 Here’s a glimpse of my portfolio in action:
 
 ![Screenshot 2025-05-19 010407](https://github.com/user-attachments/assets/301981f6-9a6d-44f0-961d-a46627b3a3d1)
-
-
+![Screenshot 2025-05-19 010432](https://github.com/user-attachments/assets/43437fb4-42f8-4a08-9510-bc00658f8d10)
+![Screenshot 2025-05-19 010448](https://github.com/user-attachments/assets/fdd1d41e-b339-493d-be0f-e93483c2b6c0)
 
 ## 🚀 Live Demo
 
